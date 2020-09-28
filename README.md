@@ -4,7 +4,7 @@ Zadanie rekrutacyjne - ABB Ability™ Cloud Platform
 **1. Co ten kod robi?**
 
 Kod ten jest odpowiedzialny za obsługiwanie połączenia klienta z Web API. Adres bazowy, czyli uri wyciągnięty jest z obiektu `_httpClientProxy`, a końcówka uri nie może się znaleźć w tej klasie, gdyż zależy od metody przekazywania danych.
- Celem parsera w tym przypadku jest przekształcenie danych otrzymanych w postaci np. JSON/XML mapując na np. jakiś wcześniej przez nas stworzony model danych.
+ Celem parsera w tym przypadku jest przekształcenie danych otrzymanych w postaci np. JSON/XML mapując na np. jakiś wcześniej stworzony model danych.
 
 **2. Jakie widać problemy?**
 
@@ -25,4 +25,4 @@ Podoba mi się, że kod jest rozszerzalny. Nie jest ograniczony do jednego rodza
 
 **4. Jakie widzimy niebezpieczeństwa używając tej metody?**
 
-Występuje duże ryzyko, że jakiś błąd nie będzie obsługiwany czyli skończy się to błędem aplikacji. Nie wiadomo skąd Endpoint uri pochodzi, w źle zaprojektowanej aplikacji mogłoby dojść do wyodrębnianian poufnych danych.
+Występuje duże ryzyko, że jakiś błąd nie będzie obsługiwany czyli skończy się to błędem aplikacji. Nie wiadomo skąd Endpoint uri pochodzi, w źle zaprojektowanej aplikacji mogłoby dojść do wyodrębniania poufnych danych.
