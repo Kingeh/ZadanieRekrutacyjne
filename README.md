@@ -27,6 +27,6 @@ Podoba mi się, że kod jest rozszerzalny. Nie jest ograniczony do jednego rodza
 Występuje duże ryzyko, że jakiś błąd nie będzie obsługiwany. Może zakończyć się to błędem aplikacji. 
 Nie wiadomo skąd Endpoint uri pochodzi, w źle zaprojektowanej aplikacji mogłoby dojść do wyodrębniania poufnych danych.
 
-**Podsumowanie
+**Podsumowanie**
 
 https://docs.microsoft.com/ to najlepszy przyjaciel każdego programisty C#
