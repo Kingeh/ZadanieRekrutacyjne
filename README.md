@@ -20,7 +20,7 @@ Poza tym, kod nie jest zbyt czytelny, znajdują się liczne spacje między wiera
 
 **3. Co jest fajnego ?**
 
-Podoba mi się, że kod jest rozszerzalny. Nie jest ograniczony do jednego rodzaju parsera czy dla jednego HttpClient. Posiada metody async czyli kod wykona się asynchronicznie. Klasa jest abstrakcynja czyli inne klasy mogą ją zaimplementować i modyfikować. Klasa jest generic co jest bardzo wygodne, jeśli trzeba ją zastosować dla różnych typów.
+Podoba mi się, że kod jest rozszerzalny. Nie jest ograniczony do jednego rodzaju parsera czy dla jednego HttpClient. Posiada metody async czyli kod wykona się asynchronicznie. Klasa jest abstrakcyjna czyli inne klasy mogą ją zaimplementować i modyfikować. Klasa jest typu generic co jest bardzo wygodne, jeśli trzeba ją zastosować dla różnych typów.
 
 **4. Jakie widzimy niebezpieczeństwa używając tej metody?**
 
