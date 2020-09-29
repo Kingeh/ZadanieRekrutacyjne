@@ -3,7 +3,7 @@ Zadanie rekrutacyjne - ABB Ability™ Cloud Platform
 
 **1. Co ten kod robi?**
 
-Kod ten jest odpowiedzialny za obsługiwanie połączenia klienta z Web API. Adres bazowy, czyli uri wyciągnięty jest z obiektu `_httpClientProxy`, a końcówka uri nie może się znaleźć w tej klasie, gdyż zależy od metody przekazywania danych.
+Kod ten jest odpowiedzialny za obsługiwanie połączenia klienta z Web API. Adres bazowy (uri) wyciągnięty jest z obiektu `_httpClientProxy`, a końcówka uri nie może się znaleźć w tej klasie, gdyż zależy od metody przekazywania danych.
  Celem parsera w tym przypadku jest przekształcenie danych otrzymanych w postaci np. JSON/XML mapując na np. jakiś wcześniej stworzony model danych.
 
 **2. Jakie widać problemy?**
