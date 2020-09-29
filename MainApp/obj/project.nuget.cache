@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdS1d1yLNV+WFMTe9mbV/jU3uTauS755w42ERibG1qp34sjfR/Gt+lESMx8B68UN0f0SCImOSfqyw9imALX5fw==",
+  "success": true,
+  "projectFilePath": "I:\\college-interview-task-v4-master\\MainApp\\MainApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
